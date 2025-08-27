@@ -103,7 +103,7 @@ Coming Soon!!!
 ```
 CCOPSYSL/
 ├── assignments/
-│   ├── assignment1-TBA/
+│   ├── assignment1-multicore-tech/
 │   ├── assignment2-TBA/
 │   ├── assignment3-TBA/
 │   ├── assignment4-TBA/
@@ -118,7 +118,7 @@ CCOPSYSL/
 │   └── module7-security/
 ├── labs/
 │   ├── lab1-fcfs-scheduling-algo/
-│   ├── lab2-TBA/
+│   ├── lab2-sjf-algorithm/
 │   ├── lab3-TBA/
 │   └── lab4-TBA/
 ├── projects/
@@ -211,7 +211,7 @@ Chronological list of updates, bug fixes, new features, and other modifications 
 # 📧 Contact
 **For questions about this coursework:**
 
-- **Student**: [Jay Arre Talosig](flexycode.dev@gmail.com)
+- **Students**: [Jay Arre Talosig](flexycode.dev@gmail.com), [Ruth Margel Mendoza](https://github.com/gzxr1)
 - **Course**: CCOPSYSL - Operating Systems
 - **Institution**: National University
 
