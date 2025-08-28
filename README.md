@@ -1,8 +1,7 @@
-# 🖥️ Operating Systems (CCOPSYSL)
+<!-- Background github cover with short introduction down below -->
+<img src="https://github.com/flexycode/CCOPSYSL/blob/main/assets/CCOPSYSL2.png" />
 
-<!-- Background github cover with short introduction down below 
-<img src="https://github.com/flexycode/CTINFMGL/blob/main/asset/Information-Management.png" />
--->
+# 🖥️ Operating Systems (CCOPSYSL)
 
 ### Name: [Jay Arre Talosig](https://github.com/flexycode)  
 ### Subject & Section: [CCOPSYSL - COM232](https://onlineapp.national-u.edu.ph/portal/services.php)
@@ -197,6 +196,12 @@ Chronological list of updates, bug fixes, new features, and other modifications 
 - ✨ Improved repository structure visualization
 - 🔧 Enhanced setup instructions for multiple platforms
 - 📚 Expanded resource links and references
+
+### 📦 Version 1.2.2 - August 29, 2025
+**Documentation Improvements**
+
+- ✨ Added lab activity 2 - SJF Algorithm
+- 🔧 Fixed bugs in Java code regarding on the lab activity 2
 
 **Commit Message** : 🧊 CCOPSYSL
 
