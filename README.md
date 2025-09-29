@@ -103,8 +103,8 @@ Coming Soon!!!
 CCOPSYSL/
 ├── assignments/
 │   ├── assignment1-multicore-tech/
-│   ├── assignment2-TBA/
-│   ├── assignment3-TBA/
+│   ├── assignment2-parallel-processing/
+│   ├── assignment3-File Manager/
 │   ├── assignment4-TBA/
 │   └── assignment5-TBA/
 ├── lectures/
@@ -118,8 +118,10 @@ CCOPSYSL/
 ├── labs/
 │   ├── lab1-fcfs-scheduling-algo/
 │   ├── lab2-sjf-algorithm/
-│   ├── lab3-TBA/
-│   └── lab4-TBA/
+│   ├── lab3-round-robin-algorithm/
+│   ├── lab4-priority-preemptive-algorithm/
+│   ├── lab5-highest-response-ratio-next/
+│   └── lab6-TBA
 ├── projects/
 │   └── final-project/
 ├── resources/
