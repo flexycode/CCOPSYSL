@@ -122,8 +122,13 @@ CCOPSYSL/
 │   ├── lab4-priority-preemptive-algorithm/
 │   ├── lab5-highest-response-ratio-next/
 │   └── lab6-TBA
-├── projects/
-│   └── final-project/
+│
+├── x-Final Project/
+│   └── README.md/
+│
+├── y- Project Proposal/
+│   └── Deadlock Detection and Prevention.pdf/
+│
 ├── resources/
 │   ├── textbooks/
 │   ├── reference-materials/
@@ -170,7 +175,7 @@ cd CCOPSYSL
 
 <!-- Always document your changes, pull-request, bugfix, updates, patch notes for this final project. Always use this "🧊 Flight Booking" for commiting message for "pushing code" or "Pull-request"   -->
 # 📫 Changelogs 
-Chronological list of updates, bug fixes, new features, and other modifications for Machine Learning topic.
+Chronological list of updates, bug fixes, new features, and other modifications for Operating System topic.
 
 ### 📦 Version 1.0.0 - July 25, 2025
 **Project Initialization**
@@ -204,6 +209,15 @@ Chronological list of updates, bug fixes, new features, and other modifications 
 
 - ✨ Added lab activity 2 - SJF Algorithm
 - 🔧 Fixed bugs in Java code regarding on the lab activity 2
+
+📦 Version 3.0.0 - October 6, 2025
+**Project Initialization**
+
+✨ Created initial repository structure
+✨ Set up course folder organization
+✨ Established OS development workflow
+🔧 Initial project configuration and README.md setup
+📚 Added course syllabus and learning objectives
 
 **Commit Message** : 🧊 CCOPSYSL
 
