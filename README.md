@@ -9,7 +9,7 @@
 ### Professor: [Mr. Gaudencio Jeffrey G. Romano](https://www.foi.gov.ph/agencies/pnp/)     
 ### No. of Units: [3 Units](https://www.youtube.com/watch?v=UVJSA2N39NU&list=RDUVJSA2N39NU&start_radio=1)
 ### Prerequisite: [CCOBJPGL](https://github.com/flexycode/CCOBJPGL-JAVA)
-### Project Link: [Dont Click!!! Coming Soon](https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1)
+### Project Link: [Deadlock Detection and Prevention](https://github.com/flexycode/CCOPSYSL/tree/main/x-Final%20Project)
 
 <!-- 🤖 Machine Learning 🤖 -->
 <div align="center">
@@ -94,13 +94,15 @@ The course covers both theoretical foundations and practical implementation of o
 # 🛠️ Programming Assignments & Lab Activity
 Lab Activity 
 ```
-Coming Soon!!!
+in the lab folder structure
 ```
 
 📁 Repository Structure
 
 ```
 CCOPSYSL/
+├── activity/
+│   ├── SNFN-OR.pdf/
 ├── assignments/
 │   ├── assignment1-multicore-tech/
 │   ├── assignment2-parallel-processing/
